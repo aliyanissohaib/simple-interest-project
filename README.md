@@ -11,3 +11,6 @@ Run the script with the following inputs:
 
 ```bash
 bash simple-interest.sh
+
+
+This is a fix from bug-fix-typo branch.
