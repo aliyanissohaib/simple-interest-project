@@ -87,16 +87,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Contributions, issues, and feature requests are welcome!
 Feel free to [open an issue](https://github.com/yourusername/simple-interest-calculator/issues) or submit a pull request.
-
 ---
-
-## ⭐️ Show your support
-
-If you find this project helpful, give it a ⭐️ on GitHub!
-
-```
-
----
-
-Let me know your GitHub username if you’d like me to personalize the repo links.
-```
